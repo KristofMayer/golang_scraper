@@ -1,19 +1,7 @@
-// packages
-package main
+main package
 
-//imports
 import {
 
-	"github.com/gocolly/colly"
-
 }
 
-//data
-
-
-
-//main function
-
-func main() {
-	c := colly.NewCollector()
-}
+func mains
