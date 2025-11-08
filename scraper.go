@@ -1,7 +1,13 @@
-main package
+package main
 
-import {
+//imports
 
+import (
+	"github.com/gocolly/colly"
+)
+
+//main function
+
+func main() {
+	c := colly.NewCollector()
 }
-
-func mains
